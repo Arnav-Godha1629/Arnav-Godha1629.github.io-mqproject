@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Work"
+  - title: "Drug Discovery"
     url: /tags/
   - title: "Coin Example"
     url: /about/
