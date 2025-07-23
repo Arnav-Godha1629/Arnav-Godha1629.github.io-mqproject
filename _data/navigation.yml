@@ -1,7 +1,7 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Quantum Key Distribution"
     url: /categories/
   - title: "Drug Discovery"
     url: /tags/
