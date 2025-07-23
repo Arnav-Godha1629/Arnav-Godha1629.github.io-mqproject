@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "Coin Example"
+layout: single
+author_profile: false
 ---
 
 <h1>Quantum Coin Flipping in Voting Systems</h1>
