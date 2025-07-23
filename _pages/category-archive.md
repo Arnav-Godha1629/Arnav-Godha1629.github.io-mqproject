@@ -18,7 +18,7 @@ In today's world, keeping our information safe is incredibly important – from 
 
 For a clearer picture of how QKD works, check out this video:
 
-{% include video.html id="kYv97-X8S3s" provider="youtube" %}
+[![Quantum Computing Explained: What is Quantum Cryptography?](https://img.youtube.com/vi/kYv97-X8S3s/hqdefault.jpg)](https://www.youtube.com/watch?v=kYv97-X8S3s)
 *(Video: "Quantum Computing Explained: What is Quantum Cryptography?" by IBM Quantum)*
 
 #### Where to Learn More ℹ️:
