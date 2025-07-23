@@ -5,13 +5,13 @@ layout: tags
 author_profile: false
 ---
 
-### Project Idea
+Project Idea
 
 Develop a conceptual framework for using quantum machine learning algorithms to accelerate the **drug discovery process**, specifically focusing on identifying potential drug candidates based on their molecular properties.
 
 ---
 
-### Background
+Background
 
 Drug discovery is a complex and time-consuming process, often spanning over a decade and incurring billions of dollars in costs. Traditional methods, limited by classical computing power, struggle to efficiently explore the vast number of possible molecular configurations and interactions.
 
@@ -29,7 +29,7 @@ For a complementary visual understanding of quantum machine learning, check out 
 
 ---
 
-### Tools & Techniques
+Tools & Techniques
 
 This project's mathematical foundation relies heavily on several key areas:
 
