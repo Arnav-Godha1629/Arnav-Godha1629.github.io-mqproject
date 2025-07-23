@@ -19,7 +19,7 @@ Drug discovery is a complex and time-consuming process, often spanning over a de
 
 For a complementary visual understanding of quantum machine learning, check out this video:
 
-{% include video.html id="XpC04Dssj_Q" provider="youtube" %}
+[![Watch the video](https://img.youtube.com/vi/XpC04Dssj_Q/0.jpg)](https://www.youtube.com/watch?v=XpC04Dssj_Q)
 *(Note: This uses a generic ID. You might want to find a more suitable introductory video on QML from a reputable source like IBM Quantum, Xanadu, or a university and replace "XpC04Dssj_Q" with its YouTube video ID.)*
 
 #### References:
