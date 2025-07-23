@@ -6,6 +6,8 @@ layout: single
 author_profile: false
 ---
 
+<h1>Welcome to my MathQuantum Mini-project!!!</h1>
+
 Complex numbers are numbers with *real components* and an *imaginary component* in the form \\(a+bi \\), where a and b are **real numbers** and \\(i \\) is the **imaginary unit**.
 
 An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number).
