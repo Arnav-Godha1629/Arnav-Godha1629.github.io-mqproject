@@ -16,11 +16,6 @@ In today's world, keeping our information safe is incredibly important – from 
 
 **Quantum Key Distribution (QKD)** offers a fundamentally new way to secure communication, not by making math harder, but by using the laws of quantum mechanics themselves. It ensures that if anyone tries to "listen in" on the key exchange, their presence is immediately detected, making it impossible for them to steal the secret key without being noticed. This motivation is driven by the urgent need for future-proof security in an increasingly connected and potentially quantum-threatened world.
 
-For a clearer picture of how QKD works, check out this video:
-
-[![Quantum Computing Explained: What is Quantum Cryptography?](https://img.youtube.com/vi/kYv97-X8S3s/hqdefault.jpg)](https://www.youtube.com/watch?v=kYv97-X8S3s)
-*(Video: "Quantum Computing Explained: What is Quantum Cryptography?" by IBM Quantum)*
-
 #### Where to Learn More ℹ️:
 
 * **Bennett, C. H., & Brassard, G.** (1984). *Quantum cryptography: Public key distribution and coin tossing*. In Proceedings of IEEE International Conference on Computers, Systems and Signal Processing (pp. 175-179). This is the groundbreaking paper introducing the BB84 protocol for QKD.
