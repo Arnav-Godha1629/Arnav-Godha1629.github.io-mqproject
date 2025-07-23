@@ -1,6 +1,4 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Quantum Key Distribution"
     url: /categories/
   - title: "Drug Discovery"
