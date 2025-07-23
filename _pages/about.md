@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "Coin Example"
 layout: single
 author_profile: false
 ---
