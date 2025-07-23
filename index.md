@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-<h1>Welcome to my MathQuantum Mini-project!!!</h1>
+<h1>Welcome to my Mini-project!!!</h1>
 
 
 <h2>Intro:</h2>
