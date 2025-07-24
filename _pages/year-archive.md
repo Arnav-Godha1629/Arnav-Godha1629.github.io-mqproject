@@ -2,7 +2,7 @@
 title: "Complex Numbers"
 permalink: /posts/
 layout: posts
-author_profile: true
+author_profile: false
 ---
 
 Complex numbers are numbers with *real components* and an *imaginary component* in the form \\(a+bi \\), where a and b are **real numbers** and \\(i \\) is the **imaginary unit**.
