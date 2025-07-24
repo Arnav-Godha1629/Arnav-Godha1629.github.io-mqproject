@@ -1,10 +1,9 @@
 ---
 title: "My MathQuantum Project"
-<h2>By: Arnav Godha</h2>
 layout: single
 author_profile: false
 ---
-
+<h2>By: Arnav Godha</h2>
 
 
 <h2>🔬 Exploring the Quantum Frontier</h2>
