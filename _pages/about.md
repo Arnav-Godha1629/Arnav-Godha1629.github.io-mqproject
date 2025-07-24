@@ -16,6 +16,16 @@ author_profile: false
   <li>Guarantee fairness in consensus</li>
 </ul>
 
+<h2>🧪 How the Quantum Flip Works</h2>
+<p>Here’s what happens behind the scenes in a real quantum coin flip:</p>
+<ul>
+  <li>We start with a qubit in state |0⟩ (which means "Heads").</li>
+  <li>A Hadamard gate (H) is applied, creating a 50/50 superposition: (|0⟩ + |1⟩)/√2.</li>
+  <li>Measuring the qubit collapses it into either |0⟩ (Heads) or |1⟩ (Tails) randomly.</li>
+  <li>This randomness comes from real quantum uncertainty—not a computer-generated trick.</li>
+  <li>Each measurement is independent and truly unpredictable, which ensures fairness.</li>
+</ul>
+
 <h2>🎮 Simulate the Flip</h2>
 <button onclick="flipCoin()">Flip the Coin</button>
 <p id="result" style="font-size: 24px;"></p>
