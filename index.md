@@ -3,9 +3,10 @@ title: "My MathQuantum Project"
 layout: single
 author_profile: false
 ---
-### By: Arnav Godha
+<h1>By: Arnav Godha</h1>
 
-<h1>🔬 Exploring the Quantum Frontier</h1>
+
+<h2>🔬 Exploring the Quantum Frontier</h2>
 
 <p>Welcome to my quantum research showcase — a collection of three mini-projects that explore the powerful intersection of quantum physics, emerging technologies, and real-world problem-solving.</p>
 
