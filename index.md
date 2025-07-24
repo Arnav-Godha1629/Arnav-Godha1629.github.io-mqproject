@@ -3,7 +3,7 @@ title: "My MathQuantum Project"
 layout: single
 author_profile: false
 ---
-<h1>By: Arnav Godha</h1>
+### By: Arnav Godha
 
 
 <h2>🔬 Exploring the Quantum Frontier</h2>
